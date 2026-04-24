@@ -14,7 +14,7 @@ I am currently iterating on the internal chassis design in **SolidWorks**. Key d
 - [ ] **Phase 1: Concept & Design**
   - [x] Concept Sketches
   - [ ] Initial CAD modeling of the internal chassis
-  - [ ] Circuit design (Motor + Limit Switch logic)
+  - [x] Circuit design (Motor + Limit Switch logic)
 - [ ] **Phase 2: Mechanical Design**
   - [ ] Defined component envelope (Battery, Motor, Switch dimensions)
   - [ ] **SolidWorks:** Modeling the main chassis and motor retention bracket
