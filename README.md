@@ -16,7 +16,7 @@ I am currently iterating on the internal chassis design in **SolidWorks**. Key d
   - [ ] Initial CAD modeling of the internal chassis
   - [x] Circuit design (Motor + Limit Switch logic)
 - [ ] **Phase 2: Mechanical Design**
-  - [ ] Defined component envelope (Battery, Motor, Switch dimensions)
+  - [x] Defined component envelope (Battery, Motor, Switch dimensions)
   - [ ] **SolidWorks:** Modeling the main chassis and motor retention bracket
   - [ ] **SolidWorks:** Designing the friction-pulley profile for the felt belt
 - [ ] **Phase 3: Fabrication 
