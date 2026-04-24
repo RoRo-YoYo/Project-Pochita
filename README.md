@@ -34,4 +34,4 @@ I am currently iterating on the internal chassis design in **SolidWorks**. Key d
  ## 📚 Documentation
 * **[Bill of Materials (BOM)](docs/BILL_OF_MATERIALS.md)** - Cost breakdown and sourcing.
 * **[Assembly Guide](docs/ASSEMBLY_GUIDE.md)** - Step-by-step build instructions.
-* **[Wiring Diagram](circuits/)** - Schematics for the motor and switches.
+* **[Wiring Diagram](circuits.md/)** - Schematics for the motor and switches.
