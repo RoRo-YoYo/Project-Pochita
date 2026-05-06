@@ -24,7 +24,7 @@ Below is the comprehensive list of components required to build the mechanical d
 | Component | Qty | Specifications | Est. Cost | Source | Notes |
 | :--- | :---: | :--- | :---: | :--- | :--- |
 | **Pochita Plushie** | ✅ Acquired | 1 | Height: 40 cm | $13.32 | [AliExpress] | Acts as the "pull-start" return spring mechanism. |
-| **Zipper** | ✅ Acquired | - | Orange, Black, or Hidden | $2.00 | [Amazon] | nstalled on the belly for battery access/maintenance. |
+| **Velcro** | ✅ Acquired | - | Orange, Black, or Hidden | $3.00 | [Amazon] | For opening/closing the belly for battery access/maintenance. |
 | **Felt / Fabric** | ✅ Acquired | 1 yd | Grey/Black (stiff felt) | $5.00 | [Amazon/AliExpress] | Used to create the soft chainsaw "chain" belt. |
 | **Interfacing** | ✅ Acquired | Iron-on Fusible | $7 | [Amazon] | *Critical:* Reinforces the fabric edges where the zipper is sewn so it doesn't rip. |
 
@@ -33,6 +33,6 @@ Below is the comprehensive list of components required to build the mechanical d
 ## 💰 Cost Summary
 * **Electronics:** ~$17.50
 * **Hardware:** ~$9.5
-* **Soft Textile:** ~27.35
+* **Soft Textile:** ~28.35
 * **3D Printing Material:** Readily Available via University; Unknown
-* **TOTAL ESTIMATED COST:** ~$59.35
+* **TOTAL ESTIMATED COST:** ~$60.35
