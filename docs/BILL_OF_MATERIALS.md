@@ -1,6 +1,6 @@
 **Project:** Project Pochita
 
-**Last Updated:** January 2026
+**Last Updated:** May 2026
 
 Below is the comprehensive list of components required to build the mechanical drive system and control circuit.
 
@@ -17,16 +17,16 @@ Below is the comprehensive list of components required to build the mechanical d
 | Component | Qty | Specifications | Est. Cost | Source | Notes |
 | :--- | :---: | :--- | :---: | :--- | :--- |
 | **Badge Reel** | ✅ Acquired | 1 | Heavy Duty, Retractable | $1.50 | [AliExpress] | Acts as the "pull-start" return spring mechanism. |
-| **Machine Screws** | ❌ To Buy | - | M3 x 10mm / M3 Nuts | $2.00 | [Amazon/Hardware Store] | For mounting the motor to the 3D printed chassis. |
+| **Machine Screws** | ✅ Acquired | - | M3 x 10mm / M3 Nuts | $2.00 | [Amazon/Hardware Store] | For mounting the motor to the 3D printed chassis. |
 | **Washer/Bead** | ✅ Acquired| - | Large diameter | $3.00 | [Amazon/Hardware Store]  | Acts as the "stopper" to hit the limit switch roller. |
 
 ## 🧸 Soft Textile
 | Component | Qty | Specifications | Est. Cost | Source | Notes |
 | :--- | :---: | :--- | :---: | :--- | :--- |
 | **Pochita Plushie** | ✅ Acquired | 1 | Height: 40 cm | $13.32 | [AliExpress] | Acts as the "pull-start" return spring mechanism. |
-| **Zipper** | ❌ To Buy | - | Orange, Black, or Hidden | $2.00 | [Amazon] | nstalled on the belly for battery access/maintenance. |
+| **Zipper** | ✅ Acquired | - | Orange, Black, or Hidden | $2.00 | [Amazon] | nstalled on the belly for battery access/maintenance. |
 | **Felt / Fabric** | ✅ Acquired | 1 yd | Grey/Black (stiff felt) | $5.00 | [Amazon/AliExpress] | Used to create the soft chainsaw "chain" belt. |
-| **Interfacing** | ❌ To Buy | Iron-on Fusible | $7 | [Amazon] | *Critical:* Reinforces the fabric edges where the zipper is sewn so it doesn't rip. |
+| **Interfacing** | ✅ Acquired | Iron-on Fusible | $7 | [Amazon] | *Critical:* Reinforces the fabric edges where the zipper is sewn so it doesn't rip. |
 
 ---
 
