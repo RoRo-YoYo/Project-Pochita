@@ -35,3 +35,15 @@ I am currently iterating on the internal chassis design in **SolidWorks**. Key d
 * **[Bill of Materials (BOM)](docs/BILL_OF_MATERIALS.md)** - Cost breakdown and sourcing.
 * **[Assembly Guide](docs/ASSEMBLY_GUIDE.md)** - Step-by-step build instructions.
 * **[Wiring Diagram](circuits.md/)** - Schematics for the motor and switches.
+
+## 💳 Credits
+
+This project uses the following 3D model:
+
+- Chainsaw Chain
+- Created by ArkhamDesigns
+- Published October 28, 2018
+- Source: https://www.thingiverse.com/thing:3182357
+- Original model by ArkhamDesigns on Thingiverse. 
+
+Modifications: None
