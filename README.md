@@ -36,14 +36,6 @@ I am currently iterating on the internal chassis design in **SolidWorks**. Key d
 * **[Assembly Guide](docs/ASSEMBLY_GUIDE.md)** - Step-by-step build instructions.
 * **[Wiring Diagram](circuits.md/)** - Schematics for the motor and switches.
 
-## 💳 Credits
+## Models Used
 
-This project uses the following 3D model:
-
-- Chainsaw Chain
-- Created by ArkhamDesigns
-- Published October 28, 2018
-- Source: https://www.thingiverse.com/thing:3182357
-- Original model by ArkhamDesigns on Thingiverse. 
-
-Modifications: None
+Details about all 3D models used in this project, including attribution and licensing information where applicable, can be found in [3D-Models/README.md](./3D-Models/README.md).
